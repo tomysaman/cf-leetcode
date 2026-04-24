@@ -1,0 +1,43 @@
+# Valid Parentheses 有效的括号
+
+[0000020] (Easy)
+
+- https://leetcode.com/problems/valid-parentheses/
+
+Topic Tags:
+- [Stack 栈](https://leetcode.com/tag/stack/)
+- [String 字符串](https://leetcode.com/tag/string/)
+
+Similar Questions:
+- [[0000022](https://leetcode.com/problems/generate-parentheses/)] - [Generate Parentheses 括号生成](./0000022.generate-parentheses.md) (Medium)
+- [[0000032](https://leetcode.com/problems/longest-valid-parentheses/)] - [Longest Valid Parentheses 最长有效括号](./0000032.longest-valid-parentheses.md) (Hard)
+- [[0000301](https://leetcode.com/problems/remove-invalid-parentheses/)] - [Remove Invalid Parentheses 删除无效的括号](./0000301.remove-invalid-parentheses.md) (Hard)
+- [[0001045](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)] - [Check If Word Is Valid After Substitutions 检查替换后的词是否有效](./0001045.check-if-word-is-valid-after-substitutions.md) (Medium)
+
+"Given a string `s` containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid."
+
+An input string is valid if:
+1. "Open brackets must be closed by the same type of brackets."
+2. "Open brackets must be closed in the correct order."
+
+**Example 1:**
+```
+Input: s = "()"
+Output: true
+```
+
+**Example 2:**
+```
+Input: s = "()[]{}"
+Output: true
+```
+
+**Example 3:**
+```
+Input: s = "(]"
+Output: false
+```
+
+**Example 4:**
+```
+Input:

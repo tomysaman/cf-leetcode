@@ -1,0 +1,23 @@
+{
+    "name":"cf-leetcode",
+    "app":{
+        "cfengine":"lucee@6.2.6+19"
+    },
+    "JVM":{
+        "heapSize":512,
+        "minHeapSize":256,
+        "args":[
+            "-Dau.com.tomy.environment=development"
+        ]
+    },
+    "web":{
+        "host":"localhost",
+        "http":{
+            "port":"65081"
+        },
+        "SSL":{
+            "enable":false
+        }
+    },
+    "openbrowser":true
+}

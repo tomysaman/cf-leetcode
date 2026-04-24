@@ -1,0 +1,47 @@
+# Search Insert Position 搜索插入位置
+
+[0000035] (Easy)
+
+- https://leetcode.com/problems/search-insert-position/
+
+Topic Tags:
+- [Array 数组](https://leetcode.com/tag/array/)
+- [Binary Search 二分查找](https://leetcode.com/tag/binary-search/)
+
+Similar Questions:
+- [[0000278](https://leetcode.com/problems/first-bad-version/)] - [First Bad Version 第一个错误的版本](./0000278.first-bad-version.md) (Easy)
+
+## Problem Description
+
+"Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order."
+
+**Examples:**
+
+- Input: `nums = [1,3,5,6], target = 5` → Output: `2`
+- Input: `nums = [1,3,5,6], target = 2` → Output: `1`
+- Input: `nums = [1,3,5,6], target = 7` → Output: `4`
+- Input: `nums = [1,3,5,6], target = 0` → Output: `0`
+- Input: `nums = [1], target = 0` → Output: `0`
+
+**Constraints:**
+- `1 <= nums.length <= 10⁴`
+- `-10⁴ <= nums[i] <= 10⁴`
+- Array contains distinct values in ascending order
+- `-10⁴ <= target <= 10⁴`
+
+## 翻译
+
+给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。
+
+你可以假设数组中无重复元素。
+
+## Solution Templates
+
+### C
+```c
+int searchInsert(int* nums, int numsSize, int target){
+
+}
+```
+
+###
