@@ -1,8 +1,8 @@
-# Next Permutation 下一个排列
+# Next Permutation
 
 **Problem ID:** 0000031 (Medium)
 
-**Topic Tags:** Array 数组
+**Topic Tags:** Array
 
 ## Problem Description
 

@@ -1,15 +1,15 @@
-# Search Insert Position 搜索插入位置
+# Search Insert Position
 
 [0000035] (Easy)
 
 - https://leetcode.com/problems/search-insert-position/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
-- [Binary Search 二分查找](https://leetcode.com/tag/binary-search/)
+- [Array](https://leetcode.com/tag/array/)
+- [Binary Search](https://leetcode.com/tag/binary-search/)
 
 Similar Questions:
-- [[0000278](https://leetcode.com/problems/first-bad-version/)] - [First Bad Version 第一个错误的版本](./0000278.first-bad-version.md) (Easy)
+- [[0000278](https://leetcode.com/problems/first-bad-version/)] - [First Bad Version](./0000278.first-bad-version.md) (Easy)
 
 ## Problem Description
 

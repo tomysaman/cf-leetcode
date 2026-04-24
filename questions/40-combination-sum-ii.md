@@ -1,4 +1,4 @@
-# Combination Sum II 组合总和 II
+# Combination Sum II II
 
 **Problem:** Given a collection of candidate numbers and a target number, find all unique combinations where the candidate numbers sum to target. Each number may only be used once per combination.
 

@@ -1,4 +1,4 @@
-# Wildcard Matching 通配符匹配
+# Wildcard Matching
 
 **Problem ID:** 0000044 (Hard)
 

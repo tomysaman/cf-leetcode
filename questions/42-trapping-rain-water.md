@@ -1,19 +1,19 @@
-# Trapping Rain Water 接雨水
+# Trapping Rain Water
 
 [0000042] (Hard)
 
 - https://leetcode.com/problems/trapping-rain-water/
 
 Topic Tags:
-- [Stack 栈](https://leetcode.com/tag/stack/)
-- [Array 数组](https://leetcode.com/tag/array/)
-- [Two Pointers 双指针](https://leetcode.com/tag/two-pointers/)
+- [Stack](https://leetcode.com/tag/stack/)
+- [Array](https://leetcode.com/tag/array/)
+- [Two Pointers](https://leetcode.com/tag/two-pointers/)
 
 Similar Questions:
-- [[0000011]] - Container With Most Water 盛最多水的容器 (Medium)
-- [[0000238]] - Product of Array Except Self 除自身以外数组的乘积 (Medium)
-- [[0000407]] - Trapping Rain Water II 接雨水 II (Hard)
-- [[0000756]] - Pour Water 倒水 (Medium) (Plus)
+- [[0000011]] - Container With Most Water (Medium)
+- [[0000238]] - Product of Array Except Self (Medium)
+- [[0000407]] - Trapping Rain Water II II (Hard)
+- [[0000756]] - Pour Water (Medium) (Plus)
 
 ## Problem Description
 

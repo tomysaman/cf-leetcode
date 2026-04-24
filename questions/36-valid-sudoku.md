@@ -1,14 +1,14 @@
-# Valid Sudoku 有效的数独
+# Valid Sudoku
 
 [0000036] (Medium)
 
 - https://leetcode.com/problems/valid-sudoku/
 
 Topic Tags:
-- [Hash Table 哈希表](https://leetcode.com/tag/hash-table/)
+- [Hash Table](https://leetcode.com/tag/hash-table/)
 
 Similar Questions:
-- [[0000037](https://leetcode.com/problems/sudoku-solver/)] - [Sudoku Solver 解数独](./0000037.sudoku-solver.md) (Hard)
+- [[0000037](https://leetcode.com/problems/sudoku-solver/)] - [Sudoku Solver](./0000037.sudoku-solver.md) (Hard)
 
 ## Problem Description
 

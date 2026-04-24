@@ -1,11 +1,11 @@
-# Longest Common Prefix 最长公共前缀
+# Longest Common Prefix
 
 [0000014] (Easy)
 
 - https://leetcode.com/problems/longest-common-prefix/
 
 Topic Tags:
-- [String 字符串](https://leetcode.com/tag/string/)
+- [String](https://leetcode.com/tag/string/)
 
 "Write a function to find the longest common prefix string amongst an array of strings."
 
@@ -29,7 +29,7 @@ Explanation: There is no common prefix among the input strings.
 - `0 <= strs[i].length <= 200`
 - `strs[i]` consists of only lower-case English letters.
 
-## solution 题解
+## solution
 
 ### C
 ```c

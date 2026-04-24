@@ -1,17 +1,17 @@
-# Letter Combinations of a Phone Number 电话号码的字母组合
+# Letter Combinations of a Phone Number
 
 [0000017] (Medium)
 
 - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
 Topic Tags:
-- [String 字符串](https://leetcode.com/tag/string/)
-- [Backtracking 回溯算法](https://leetcode.com/tag/backtracking/)
+- [String](https://leetcode.com/tag/string/)
+- [Backtracking](https://leetcode.com/tag/backtracking/)
 
 Similar Questions:
-- [[0000022]] - Generate Parentheses 括号生成 (Medium)
-- [[0000039]] - Combination Sum 组合总和 (Medium)
-- [[0000401]] - Binary Watch 二进制手表 (Easy)
+- [[0000022]] - Generate Parentheses (Medium)
+- [[0000039]] - Combination Sum (Medium)
+- [[0000401]] - Binary Watch (Easy)
 
 ## Problem Description
 

@@ -1,16 +1,16 @@
-# Generate Parentheses 括号生成
+# Generate Parentheses
 
 [0000022] (Medium)
 
 - https://leetcode.com/problems/generate-parentheses/
 
 Topic Tags:
-- [String 字符串](https://leetcode.com/tag/string/)
-- [Backtracking 回溯算法](https://leetcode.com/tag/backtracking/)
+- [String](https://leetcode.com/tag/string/)
+- [Backtracking](https://leetcode.com/tag/backtracking/)
 
 Similar Questions:
-- [[0000017](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)] - [Letter Combinations of a Phone Number 电话号码的字母组合](./0000017.letter-combinations-of-a-phone-number.md) (Medium)
-- [[0000020](https://leetcode.com/problems/valid-parentheses/)] - [Valid Parentheses 有效的括号](./0000020.valid-parentheses.md) (Easy)
+- [[0000017](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)] - [Letter Combinations of a Phone Number](./0000017.letter-combinations-of-a-phone-number.md) (Medium)
+- [[0000020](https://leetcode.com/problems/valid-parentheses/)] - [Valid Parentheses](./0000020.valid-parentheses.md) (Easy)
 
 "Given `n` pairs of parentheses, write a function to _generate all combinations of well-formed parentheses_."
 
@@ -29,7 +29,7 @@ Output: ["()"]
 **Constraints:**
 - `1 <= n <= 8`
 
-## solution 题解
+## solution
 
 ### C
 ```c

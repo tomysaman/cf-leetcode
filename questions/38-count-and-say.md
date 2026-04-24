@@ -1,8 +1,8 @@
-# Count and Say 外观数列
+# Count and Say
 
 **Problem ID:** 0000038 (Easy)
 
-**Topic Tags:** String 字符串
+**Topic Tags:** String
 
 ## Problem Description
 

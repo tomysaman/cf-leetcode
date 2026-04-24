@@ -1,16 +1,16 @@
-# Group Anagrams 字母异位词分组
+# Group Anagrams
 
 [0000049] (Medium)
 
 - https://leetcode.com/problems/group-anagrams/
 
 Topic Tags:
-- [Hash Table 哈希表](https://leetcode.com/tag/hash-table/)
-- [String 字符串](https://leetcode.com/tag/string/)
+- [Hash Table](https://leetcode.com/tag/hash-table/)
+- [String](https://leetcode.com/tag/string/)
 
 Similar Questions:
-- [[0000242](https://leetcode.com/problems/valid-anagram/)] - [Valid Anagram 有效的字母异位词](./0000242.valid-anagram.md) (Easy)
-- [[0000249](https://leetcode.com/problems/group-shifted-strings/)] - [Group Shifted Strings 移位字符串分组](./0000249.group-shifted-strings.md) (Medium) (Plus)
+- [[0000242](https://leetcode.com/problems/valid-anagram/)] - [Valid Anagram](./0000242.valid-anagram.md) (Easy)
+- [[0000249](https://leetcode.com/problems/group-shifted-strings/)] - [Group Shifted Strings](./0000249.group-shifted-strings.md) (Medium) (Plus)
 
 ## Problem Description
 

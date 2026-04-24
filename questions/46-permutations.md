@@ -1,8 +1,8 @@
-# Permutations 全排列
+# Permutations
 
 **Problem:** [0000046] (Medium)
 - **Link:** https://leetcode.com/problems/permutations/
-- **Topic:** Backtracking 回溯算法
+- **Topic:** Backtracking
 
 ## Problem Description
 
@@ -59,7 +59,7 @@ int** permute(int* nums, int numsSize, int* returnSize, int** returnColumnSizes)
 
 ## Related Problems
 
-- Next Permutation 下一个排列 (Medium)
-- Permutations II 全排列 II (Medium) 
-- Permutation Sequence 第 k 个排列 (Hard)
-- Combinations 组合 (Medium)
+- Next Permutation (Medium)
+- Permutations II II (Medium) 
+- Permutation Sequence k (Hard)
+- Combinations (Medium)

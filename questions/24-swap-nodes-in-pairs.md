@@ -1,14 +1,14 @@
-# Swap Nodes in Pairs 两两交换链表中的节点
+# Swap Nodes in Pairs
 
 [0000024] (Medium)
 
 - https://leetcode.com/problems/swap-nodes-in-pairs/
 
 Topic Tags:
-- [Linked List 链表](https://leetcode.com/tag/linked-list/)
+- [Linked List](https://leetcode.com/tag/linked-list/)
 
 Similar Questions:
-- [[0000025](https://leetcode.com/problems/reverse-nodes-in-k-group/)] - [Reverse Nodes in k-Group K 个一组翻转链表](./0000025.reverse-nodes-in-k-group.md) (Hard)
+- [[0000025](https://leetcode.com/problems/reverse-nodes-in-k-group/)] - [Reverse Nodes in k-Group K](./0000025.reverse-nodes-in-k-group.md) (Hard)
 
 ## Problem Description
 

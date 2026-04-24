@@ -1,11 +1,11 @@
-# Rotate Image 旋转图像
+# Rotate Image
 
 [0000048] (Medium)
 
 - https://leetcode.com/problems/rotate-image/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
+- [Array](https://leetcode.com/tag/array/)
 
 ## Problem Description
 

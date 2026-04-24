@@ -1,4 +1,4 @@
-# Implement strStr() 实现 strStr()
+# Implement strStr() strStr()
 
 **Problem:** [0000028] (Easy)
 

@@ -1,10 +1,10 @@
-# Permutations II 全排列 II
+# Permutations II II
 
 **Problem ID:** [0000047] (Medium)
 
 **Link:** https://leetcode.com/problems/permutations-ii/
 
-**Topic Tags:** Backtracking 回溯算法
+**Topic Tags:** Backtracking
 
 ## Problem Description
 
@@ -23,10 +23,10 @@ Output:
 
 ## Similar Problems
 
-- Next Permutation 下一个排列 (Medium)
-- Permutations 全排列 (Medium) 
-- Palindrome Permutation II 回文排列 II (Medium)
-- Number of Squareful Arrays 正方形数组的数目 (Hard)
+- Next Permutation (Medium)
+- Permutations (Medium) 
+- Palindrome Permutation II II (Medium)
+- Number of Squareful Arrays (Hard)
 
 ## Solution Templates
 

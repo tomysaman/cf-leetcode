@@ -1,8 +1,8 @@
-# Multiply Strings 字符串相乘
+# Multiply Strings
 
 **Problem ID:** 0000043 (Medium)
 
-**Topic Tags:** Math 数学, String 字符串
+**Topic Tags:** Math, String
 
 ## Problem Description
 

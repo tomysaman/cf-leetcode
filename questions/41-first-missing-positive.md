@@ -1,17 +1,17 @@
-# First Missing Positive 缺失的第一个正数
+# First Missing Positive
 
 [0000041] (Hard)
 
 - https://leetcode.com/problems/first-missing-positive/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
+- [Array](https://leetcode.com/tag/array/)
 
 Similar Questions:
-- [[0000268]] - Missing Number 丢失的数字 (Easy)
-- [[0000287]] - Find the Duplicate Number 寻找重复数 (Medium)  
-- [[0000448]] - Find All Numbers Disappeared in an Array 找到所有数组中消失的数字 (Easy)
-- [[0000770]] - Couples Holding Hands 情侣牵手 (Hard)
+- [[0000268]] - Missing Number (Easy)
+- [[0000287]] - Find the Duplicate Number (Medium)  
+- [[0000448]] - Find All Numbers Disappeared in an Array (Easy)
+- [[0000770]] - Couples Holding Hands (Hard)
 
 ## Problem Description
 

@@ -1,17 +1,17 @@
-# Merge k Sorted Lists 合并 K 个升序链表
+# Merge k Sorted Lists K
 
 [0000023] (Hard)
 
 - https://leetcode.com/problems/merge-k-sorted-lists/
 
 Topic Tags:
-- [Heap 堆](https://leetcode.com/tag/heap/)
-- [Linked List 链表](https://leetcode.com/tag/linked-list/)
-- [Divide and Conquer 分治算法](https://leetcode.com/tag/divide-and-conquer/)
+- [Heap](https://leetcode.com/tag/heap/)
+- [Linked List](https://leetcode.com/tag/linked-list/)
+- [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)
 
 Similar Questions:
-- [[0000021](https://leetcode.com/problems/merge-two-sorted-lists/)] - [Merge Two Sorted Lists 合并两个有序链表](./0000021.merge-two-sorted-lists.md) (Easy)
-- [[0000264](https://leetcode.com/problems/ugly-number-ii/)] - [Ugly Number II 丑数 II](./0000264.ugly-number-ii.md) (Medium)
+- [[0000021](https://leetcode.com/problems/merge-two-sorted-lists/)] - [Merge Two Sorted Lists](./0000021.merge-two-sorted-lists.md) (Easy)
+- [[0000264](https://leetcode.com/problems/ugly-number-ii/)] - [Ugly Number II II](./0000264.ugly-number-ii.md) (Medium)
 
 ## Problem Description
 

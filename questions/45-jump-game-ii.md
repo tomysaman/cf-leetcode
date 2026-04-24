@@ -1,15 +1,15 @@
-# Jump Game II 跳跃游戏 II
+# Jump Game II II
 
 [0000045] (Hard)
 
 - https://leetcode.com/problems/jump-game-ii/
 
 Topic Tags:
-- [Greedy 贪心算法](https://leetcode.com/tag/greedy/)
-- [Array 数组](https://leetcode.com/tag/array/)
+- [Greedy](https://leetcode.com/tag/greedy/)
+- [Array](https://leetcode.com/tag/array/)
 
 Similar Questions:
-- [[0000055](https://leetcode.com/problems/jump-game/)] - [Jump Game 跳跃游戏](./0000055.jump-game.md) (Medium)
+- [[0000055](https://leetcode.com/problems/jump-game/)] - [Jump Game](./0000055.jump-game.md) (Medium)
 
 ## Problem Description
 

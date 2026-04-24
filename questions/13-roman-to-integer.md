@@ -1,15 +1,15 @@
-# Roman to Integer 罗马数字转整数
+# Roman to Integer
 
 [0000013] (Easy)
 
 - https://leetcode.com/problems/roman-to-integer/
 
 Topic Tags:
-- [Math 数学](https://leetcode.com/tag/math/)
-- [String 字符串](https://leetcode.com/tag/string/)
+- [Math](https://leetcode.com/tag/math/)
+- [String](https://leetcode.com/tag/string/)
 
 Similar Questions:
-- [[0000012](https://leetcode.com/problems/integer-to-roman/)] - [Integer to Roman 整数转罗马数字](./0000012.integer-to-roman.md) (Medium)
+- [[0000012](https://leetcode.com/problems/integer-to-roman/)] - [Integer to Roman](./0000012.integer-to-roman.md) (Medium)
 
 ## Problem Description
 

@@ -1,12 +1,12 @@
-# Divide Two Integers 两数相除
+# Divide Two Integers
 
 [0000029] (Medium)
 
 - https://leetcode.com/problems/divide-two-integers/
 
 Topic Tags:
-- [Math 数学](https://leetcode.com/tag/math/)
-- [Binary Search 二分查找](https://leetcode.com/tag/binary-search/)
+- [Math](https://leetcode.com/tag/math/)
+- [Binary Search](https://leetcode.com/tag/binary-search/)
 
 ## Problem Description
 

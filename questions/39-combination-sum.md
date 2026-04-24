@@ -1,8 +1,8 @@
-# Combination Sum 组合总和
+# Combination Sum
 
 **Problem:** [0000039] (Medium)
 
-**Topic Tags:** Array 数组, Backtracking 回溯算法
+**Topic Tags:** Array, Backtracking
 
 ## Problem Description
 

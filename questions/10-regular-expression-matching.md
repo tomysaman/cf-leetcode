@@ -1,16 +1,16 @@
-# Regular Expression Matching 正则表达式匹配
+# Regular Expression Matching
 
 [0000010] (Hard)
 
 - https://leetcode.com/problems/regular-expression-matching/
 
 Topic Tags:
-- String 字符串
-- Dynamic Programming 动态规划  
-- Backtracking 回溯算法
+- String
+- Dynamic Programming  
+- Backtracking
 
 Similar Questions:
-- [0000044] Wildcard Matching 通配符匹配 (Hard)
+- [0000044] Wildcard Matching (Hard)
 
 ## Problem Description
 

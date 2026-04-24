@@ -1,11 +1,11 @@
-# ZigZag Conversion Z 字形变换
+# ZigZag Conversion Z
 
 [0000006] (Medium)
 
 - https://leetcode.com/problems/zigzag-conversion/
 
 Topic Tags:
-- [String 字符串](https://leetcode.com/tag/string/)
+- [String](https://leetcode.com/tag/string/)
 
 ## Problem Description
 

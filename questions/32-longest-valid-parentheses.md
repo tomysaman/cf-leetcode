@@ -1,4 +1,4 @@
-# Longest Valid Parentheses 最长有效括号
+# Longest Valid Parentheses
 
 [0000032] (Hard)
 
@@ -6,12 +6,12 @@
 
 Topic Tags:
 
-- [String 字符串](https://leetcode.com/tag/string/)
-- [Dynamic Programming 动态规划](https://leetcode.com/tag/dynamic-programming/)
+- [String](https://leetcode.com/tag/string/)
+- [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/)
 
 Similar Questions:
 
-- [[0000020](https://leetcode.com/problems/valid-parentheses/)] - [Valid Parentheses 有效的括号](./0000020.valid-parentheses.md) (Easy)
+- [[0000020](https://leetcode.com/problems/valid-parentheses/)] - [Valid Parentheses](./0000020.valid-parentheses.md) (Easy)
 
 "Given a string containing just the characters `'('` and `')'`, find the length of the longest valid (well-formed) parentheses substring."
 
@@ -43,7 +43,7 @@ Output: 0
 - `0 <= s.length <= 3 * 10^4`
 - `s[i]` is `'('`, or `')'`.
 
-## solution 题解
+## solution
 
 ### C
 

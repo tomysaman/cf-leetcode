@@ -1,16 +1,16 @@
-# 3Sum Closest 最接近的三数之和
+# 3Sum Closest
 
 [0000016] (Medium)
 
 - https://leetcode.com/problems/3sum-closest/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
-- [Two Pointers 双指针](https://leetcode.com/tag/two-pointers/)
+- [Array](https://leetcode.com/tag/array/)
+- [Two Pointers](https://leetcode.com/tag/two-pointers/)
 
 Similar Questions:
-- [[0000015](https://leetcode.com/problems/3sum/)] - [3Sum 三数之和](./0000015.3sum.md) (Medium)
-- [[0000259](https://leetcode.com/problems/3sum-smaller/)] - [3Sum Smaller 较小的三数之和](./0000259.3sum-smaller.md) (Medium) (Plus)
+- [[0000015](https://leetcode.com/problems/3sum/)] - [3Sum](./0000015.3sum.md) (Medium)
+- [[0000259](https://leetcode.com/problems/3sum-smaller/)] - [3Sum Smaller](./0000259.3sum-smaller.md) (Medium) (Plus)
 
 ## Problem Description
 

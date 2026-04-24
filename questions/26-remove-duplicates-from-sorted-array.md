@@ -1,8 +1,8 @@
-# Remove Duplicates from Sorted Array 删除排序数组中的重复项
+# Remove Duplicates from Sorted Array
 
 **Problem ID:** 0000026 (Easy)
 
-**Topic Tags:** Array 数组, Two Pointers 双指针
+**Topic Tags:** Array, Two Pointers
 
 ## Problem Description
 

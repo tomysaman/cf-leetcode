@@ -1,8 +1,8 @@
-# String to Integer (atoi) 字符串转换整数 (atoi)
+# String to Integer (atoi) (atoi)
 
 **Problem ID:** 0000008 (Medium)
 
-**Topic Tags:** Math 数学, String 字符串
+**Topic Tags:** Math, String
 
 ## Problem Description
 

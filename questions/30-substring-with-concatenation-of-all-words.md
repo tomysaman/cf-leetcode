@@ -1,16 +1,16 @@
-# Substring with Concatenation of All Words 串联所有单词的子串
+# Substring with Concatenation of All Words
 
 [0000030] (Hard)
 
 - https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 Topic Tags:
-- [Hash Table 哈希表](https://leetcode.com/tag/hash-table/)
-- [Two Pointers 双指针](https://leetcode.com/tag/two-pointers/)
-- [String 字符串](https://leetcode.com/tag/string/)
+- [Hash Table](https://leetcode.com/tag/hash-table/)
+- [Two Pointers](https://leetcode.com/tag/two-pointers/)
+- [String](https://leetcode.com/tag/string/)
 
 Similar Questions:
-- [[0000076](https://leetcode.com/problems/minimum-window-substring/)] - [Minimum Window Substring 最小覆盖子串](./0000076.minimum-window-substring.md) (Hard)
+- [[0000076](https://leetcode.com/problems/minimum-window-substring/)] - [Minimum Window Substring](./0000076.minimum-window-substring.md) (Hard)
 
 ## Problem Description
 

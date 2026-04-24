@@ -1,12 +1,12 @@
-# Remove Nth Node From End of List 删除链表的倒数第 N 个节点
+# Remove Nth Node From End of List N
 
 [0000019] (Medium)
 
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 Topic Tags:
-- [Linked List 链表](https://leetcode.com/tag/linked-list/)
-- [Two Pointers 双指针](https://leetcode.com/tag/two-pointers/)
+- [Linked List](https://leetcode.com/tag/linked-list/)
+- [Two Pointers](https://leetcode.com/tag/two-pointers/)
 
 "Given the `head` of a linked list, remove the `nth` node from the end of the list and return its head."
 

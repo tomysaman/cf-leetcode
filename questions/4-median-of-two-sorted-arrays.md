@@ -1,13 +1,13 @@
-# Median of Two Sorted Arrays 寻找两个正序数组的中位数
+# Median of Two Sorted Arrays
 
 [0000004] (Hard)
 
 - https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
-- [Binary Search 二分查找](https://leetcode.com/tag/binary-search/)
-- [Divide and Conquer 分治算法](https://leetcode.com/tag/divide-and-conquer/)
+- [Array](https://leetcode.com/tag/array/)
+- [Binary Search](https://leetcode.com/tag/binary-search/)
+- [Divide and Conquer](https://leetcode.com/tag/divide-and-conquer/)
 
 "Given two sorted arrays `nums1` and `nums2` of size `m` and `n` respectively, return **the median** of the two sorted arrays."
 

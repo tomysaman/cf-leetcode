@@ -1,15 +1,15 @@
-# Container With Most Water 盛最多水的容器
+# Container With Most Water
 
 [0000011] (Medium)
 
 - https://leetcode.com/problems/container-with-most-water/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
-- [Two Pointers 双指针](https://leetcode.com/tag/two-pointers/)
+- [Array](https://leetcode.com/tag/array/)
+- [Two Pointers](https://leetcode.com/tag/two-pointers/)
 
 Similar Questions:
-- [[0000042](https://leetcode.com/problems/trapping-rain-water/)] - [Trapping Rain Water 接雨水](./0000042.trapping-rain-water.md) (Hard)
+- [[0000042](https://leetcode.com/problems/trapping-rain-water/)] - [Trapping Rain Water](./0000042.trapping-rain-water.md) (Hard)
 
 ## Problem Description
 

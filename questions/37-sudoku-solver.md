@@ -1,16 +1,16 @@
-# Sudoku Solver 解数独
+# Sudoku Solver
 
 [0000037] (Hard)
 
 - https://leetcode.com/problems/sudoku-solver/
 
 Topic Tags:
-- [Hash Table 哈希表](https://leetcode.com/tag/hash-table/)
-- [Backtracking 回溯算法](https://leetcode.com/tag/backtracking/)
+- [Hash Table](https://leetcode.com/tag/hash-table/)
+- [Backtracking](https://leetcode.com/tag/backtracking/)
 
 Similar Questions:
-- [[0000036](https://leetcode.com/problems/valid-sudoku/)] - [Valid Sudoku 有效的数独](./0000036.valid-sudoku.md) (Medium)
-- [[0001022](https://leetcode.com/problems/unique-paths-iii/)] - [Unique Paths III 不同路径 III](./0001022.unique-paths-iii.md) (Hard)
+- [[0000036](https://leetcode.com/problems/valid-sudoku/)] - [Valid Sudoku](./0000036.valid-sudoku.md) (Medium)
+- [[0001022](https://leetcode.com/problems/unique-paths-iii/)] - [Unique Paths III III](./0001022.unique-paths-iii.md) (Hard)
 
 ## Problem Description
 

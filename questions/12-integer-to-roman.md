@@ -1,16 +1,16 @@
-# Integer to Roman 整数转罗马数字
+# Integer to Roman
 
 [0000012] (Medium)
 
 - https://leetcode.com/problems/integer-to-roman/
 
 Topic Tags:
-- [Math 数学](https://leetcode.com/tag/math/)
-- [String 字符串](https://leetcode.com/tag/string/)
+- [Math](https://leetcode.com/tag/math/)
+- [String](https://leetcode.com/tag/string/)
 
 Similar Questions:
-- [[0000013](https://leetcode.com/problems/roman-to-integer/)] - [Roman to Integer 罗马数字转整数](./0000013.roman-to-integer.md) (Easy)
-- [[0000273](https://leetcode.com/problems/integer-to-english-words/)] - [Integer to English Words 整数转换英文表示](./0000273.integer-to-english-words.md) (Hard)
+- [[0000013](https://leetcode.com/problems/roman-to-integer/)] - [Roman to Integer](./0000013.roman-to-integer.md) (Easy)
+- [[0000273](https://leetcode.com/problems/integer-to-english-words/)] - [Integer to English Words](./0000273.integer-to-english-words.md) (Hard)
 
 ## Problem Description
 

@@ -1,12 +1,12 @@
-# Search in Rotated Sorted Array 搜索旋转排序数组
+# Search in Rotated Sorted Array
 
 [0000033] (Medium)
 
 - https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 Topic Tags:
-- [Array 数组](https://leetcode.com/tag/array/)
-- [Binary Search 二分查找](https://leetcode.com/tag/binary-search/)
+- [Array](https://leetcode.com/tag/array/)
+- [Binary Search](https://leetcode.com/tag/binary-search/)
 
 Similar Questions:
 - [[0000081]] - Search in Rotated Sorted Array II (Medium)

@@ -1,14 +1,14 @@
-# Reverse Nodes in k-Group K 个一组翻转链表
+# Reverse Nodes in k-Group K
 
 [0000025] (Hard)
 
 - https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 Topic Tags:
-- [Linked List 链表](https://leetcode.com/tag/linked-list/)
+- [Linked List](https://leetcode.com/tag/linked-list/)
 
 Similar Questions:
-- [[0000024](https://leetcode.com/problems/swap-nodes-in-pairs/)] - [Swap Nodes in Pairs 两两交换链表中的节点](./0000024.swap-nodes-in-pairs.md) (Medium)
+- [[0000024](https://leetcode.com/problems/swap-nodes-in-pairs/)] - [Swap Nodes in Pairs](./0000024.swap-nodes-in-pairs.md) (Medium)
 
 ## Problem Description
 
