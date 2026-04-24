@@ -43,7 +43,3 @@ The parameter _k_ is a positive integer that doesn't exceed the linked list leng
 - `1 <= sz <= 5000`
 - `0 <= Node.val <= 1000`
 - `1 <= k <= sz`
-
-## 翻译
-
-"给你一个链表，每 *k* 个节点

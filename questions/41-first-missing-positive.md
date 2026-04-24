@@ -24,12 +24,6 @@ Similar Questions:
 
 **Constraint:** "Your algorithm should run in O(n) time and uses constant extra space."
 
-## 翻译
-
-"给你一个未排序的整数数组，请你找出其中没有出现的最小的正整数。"
-
-**提示：** "你的算法的时间复杂度应为 O(n)，并且只能使用常数级别的额外空间。"
-
 ## Solution Templates
 
 The problem provides empty function templates in C, Go, Python3, JavaScript, and Java for implementation.

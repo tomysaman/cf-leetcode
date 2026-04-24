@@ -45,7 +45,3 @@ Output: 2
 **Constraints:**
 - `2 <= height.length <= 3 * 10⁴`
 - `0 <= height[i] <= 3 * 10⁴`
-
-## 翻译
-
-给你 n 个非负整数 a

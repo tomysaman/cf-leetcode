@@ -28,10 +28,6 @@ Explanation: The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 - `-10^3 <= nums[i] <= 10^3`
 - `-10^4 <= target <= 10^4`
 
-## 翻译
-
-"给定一个包括 *n* 个整数的数组 `nums` 和 一个目标值 `target`。找出 `nums` 中的三个整数，使得它们的和与 `target` 最接近。"
-
 ## Solution Templates
 
 ### C

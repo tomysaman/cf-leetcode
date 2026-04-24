@@ -22,10 +22,6 @@ Output:
 ]
 ```
 
-## 翻译
-
-"给定一个 **没有重复** 数字的序列，返回其所有可能的全排列。"
-
 ## Solution Templates
 
 The problem provides solution templates in multiple languages:

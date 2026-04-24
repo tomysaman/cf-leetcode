@@ -29,10 +29,6 @@ Similar Questions:
 - `1 <= s.length <= 1000`
 - String consists of digits and English letters only
 
-## 翻译
-
-"给定一个字符串 `s`，找到 `s` 中最长的回文子串。你可以假设 `s` 的最大长度为 1000。"
-
 ## Solution Templates
 
 The problem provides empty function templates in multiple programming languages:

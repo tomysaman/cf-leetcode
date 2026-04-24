@@ -21,10 +21,6 @@ Output:
 ]
 ```
 
-## 翻译 (Chinese Translation)
-
-给定一个可包含重复数字的序列，返回所有不重复的全排列。
-
 ## Similar Problems
 
 - Next Permutation 下一个排列 (Medium)
