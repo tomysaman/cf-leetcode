@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1. Two Sum — CFML Solution</title>
+    <link rel="stylesheet" href="/css/theme.css">
+</head>
+<body>
+<cfinclude template="/includes/header.cfm">
+<main>
 <cfscript>
 /**
  * Two Sum - LeetCode Problem #1
@@ -88,6 +99,10 @@ function runTests() {
 // Run the tests when the page is accessed
 runTests();
 </cfscript>
+</main>
+<cfinclude template="/includes/footer.cfm">
+</body>
+</html>
 
 <!---
 Alternative approach using CFML tags instead of cfscript:

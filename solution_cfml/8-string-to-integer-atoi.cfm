@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8. String To Integer Atoi — CFML Solution</title>
+    <link rel="stylesheet" href="/css/theme.css">
+</head>
+<body>
+<cfinclude template="/includes/header.cfm">
+<main>
 <cfscript>
 /**
  * String to Integer (atoi) - LeetCode Problem #8
@@ -85,3 +96,7 @@ function runTests() {
 
 runTests();
 </cfscript>
+</main>
+<cfinclude template="/includes/footer.cfm">
+</body>
+</html>

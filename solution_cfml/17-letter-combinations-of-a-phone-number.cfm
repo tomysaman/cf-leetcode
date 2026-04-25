@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>17. Letter Combinations Of A Phone Number — CFML Solution</title>
+    <link rel="stylesheet" href="/css/theme.css">
+</head>
+<body>
+<cfinclude template="/includes/header.cfm">
+<main>
 <cfscript>
 /**
  * Letter Combinations of a Phone Number - LeetCode Problem #17
@@ -74,3 +85,7 @@ function runTests() {
 
 runTests();
 </cfscript>
+</main>
+<cfinclude template="/includes/footer.cfm">
+</body>
+</html>

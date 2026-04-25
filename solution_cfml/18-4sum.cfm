@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>18. 4sum — CFML Solution</title>
+    <link rel="stylesheet" href="/css/theme.css">
+</head>
+<body>
+<cfinclude template="/includes/header.cfm">
+<main>
 <cfscript>
 /**
  * 4Sum - LeetCode Problem #18
@@ -81,3 +92,7 @@ function runTests() {
 
 runTests();
 </cfscript>
+</main>
+<cfinclude template="/includes/footer.cfm">
+</body>
+</html>

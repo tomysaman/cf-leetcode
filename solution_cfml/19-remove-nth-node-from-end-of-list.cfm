@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>19. Remove Nth Node From End Of List — CFML Solution</title>
+    <link rel="stylesheet" href="/css/theme.css">
+</head>
+<body>
+<cfinclude template="/includes/header.cfm">
+<main>
 <cfscript>
 /**
  * Remove Nth Node From End of List - LeetCode Problem #19
@@ -61,3 +72,7 @@ function runTests() {
 
 runTests();
 </cfscript>
+</main>
+<cfinclude template="/includes/footer.cfm">
+</body>
+</html>
