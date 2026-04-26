@@ -117,7 +117,7 @@
 </head>
 <body>
 
-<cfinclude template="/includes/header.cfm">
+<cfinclude template="/template/header.cfm">
 
 <div class="hero">
     <h1>LeetCode <span>Solutions</span></h1>
@@ -224,7 +224,7 @@
     </div>
 </main>
 
-<cfinclude template="/includes/footer.cfm">
+<cfinclude template="/template/footer.cfm">
 
 <script src="/lib/marked.min.js"></script>
 <script>

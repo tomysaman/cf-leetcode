@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/css/theme.css">
 </head>
 <body>
-<cfinclude template="/includes/header.cfm">
+<cfinclude template="/template/header.cfm">
 <main>
 <cfscript>
 /**
@@ -97,6 +97,6 @@ function runTests() {
 runTests();
 </cfscript>
 </main>
-<cfinclude template="/includes/footer.cfm">
+<cfinclude template="/template/footer.cfm">
 </body>
 </html>
